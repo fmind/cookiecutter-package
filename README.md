@@ -1,1 +1,1 @@
-# cookiecutter-module
+# cookiecutter-package
